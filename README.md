@@ -1,1 +1,1 @@
-<a href="https://hugohorta01.github.io/Imc/%22%3E<img src=".\imc.png" width="250px"></a>
+<a href="https://luizranngel.github.io/Calculadora_IMC_V1/<img src=".\imc.png" width="250px"></a>
